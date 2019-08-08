@@ -1,0 +1,14 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.box
+{
+	position: absolute;
+	transform: translate(0%,-50%); 
+	width:10000px;
+	height: 500px;
+	background: #262626;
+	cursor: url(rsz_hand.png),pointer;
+}
